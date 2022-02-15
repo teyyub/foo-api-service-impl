@@ -10,6 +10,6 @@ import javax.validation.constraints.NotBlank;
 public class FooDTO {
     private Long id;
 
-    @NotBlank(message = "Medal adı boş ola bilməz")
+    @NotBlank(message = "Foo adı boş ola bilməz")
     private String name;
 }
