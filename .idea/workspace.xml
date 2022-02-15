@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdae1c9d-50ef-4905-bd44-a09001bf9f56" name="Changes" comment="" />
+    <list default="true" id="fdae1c9d-50ef-4905-bd44-a09001bf9f56" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__az_gov_mia_grps_foo_api_0_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-api/src/main/java/az/gov/mia/grp/FooApiApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-api/src/main/java/com/example/foo/test/FooApiApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-api/src/main/java/az/gov/mia/grp/api/foo/FooApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-api/src/main/java/com/example/foo/test/api/foo/FooApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-api/src/main/java/az/gov/mia/grp/api/foo/FooApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-api/src/main/java/com/example/foo/test/api/foo/FooApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-api/src/main/java/az/gov/mia/grp/api/foo/FooApiDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-api/src/main/java/com/example/foo/test/api/foo/FooApiDelegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-api/src/main/java/az/gov/mia/grp/foo/FooDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-api/src/main/java/com/example/foo/test/foo/FooDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/foo-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-service/src/main/java/az/gov/mia/grp/FooServiceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-service/src/main/java/com/example/foo/test/FooServiceApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-service/src/main/java/az/gov/mia/grp/config/RestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-service/src/main/java/com/example/foo/test/config/RestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-service/src/main/java/az/gov/mia/grp/config/SimpleCorsFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-service/src/main/java/com/example/foo/test/config/SimpleCorsFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-service/src/main/java/az/gov/mia/grp/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-service/src/main/java/com/example/foo/test/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-service/src/main/java/az/gov/mia/grp/entity/foo/FooEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-service/src/main/java/com/example/foo/test/entity/foo/FooEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-service/src/main/java/az/gov/mia/grp/repository/foo/FooRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-service/src/main/java/com/example/foo/test/repository/foo/FooRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-service/src/main/java/az/gov/mia/grp/service/foo/FooService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foo-service/src/main/java/com/example/foo/test/service/foo/FooService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +58,7 @@
     </option>
   </component>
   <component name="ProjectId" id="258Rytznn4YmuExxBMRsOwkWYBa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -88,7 +107,7 @@
       <updated>1644906986844</updated>
       <workItem from="1644906988494" duration="2678000" />
       <workItem from="1644909993245" duration="468000" />
-      <workItem from="1644910542322" duration="423000" />
+      <workItem from="1644910542322" duration="1429000" />
     </task>
     <servers />
   </component>

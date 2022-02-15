@@ -1,4 +1,4 @@
-package az.gov.mia.grp;
+package com.example.foo.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

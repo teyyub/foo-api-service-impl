@@ -1,11 +1,9 @@
-package az.gov.mia.grp.api.foo;
+package com.example.foo.test.api.foo;
 
 
-import az.gov.mia.grp.foo.FooDTO;
+import com.example.foo.test.foo.FooDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-
-import java.util.List;
 
 public interface FooApiDelegate {
     default ResponseEntity<?> add(FooDTO dto) {

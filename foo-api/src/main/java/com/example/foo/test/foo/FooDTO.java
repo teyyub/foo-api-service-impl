@@ -1,4 +1,4 @@
-package az.gov.mia.grp.foo;
+package com.example.foo.test.foo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

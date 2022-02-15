@@ -1,11 +1,9 @@
-package az.gov.mia.grp.service.foo;
+package com.example.foo.test.service.foo;
 
-import az.gov.mia.grp.api.foo.FooApiDelegate;
-import az.gov.mia.grp.foo.FooDTO;
+import com.example.foo.test.api.foo.FooApiDelegate;
+import com.example.foo.test.foo.FooDTO;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-
-import java.util.List;
 
 
 @Service

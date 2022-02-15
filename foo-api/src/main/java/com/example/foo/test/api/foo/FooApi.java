@@ -1,6 +1,6 @@
-package az.gov.mia.grp.api.foo;
+package com.example.foo.test.api.foo;
  
-import az.gov.mia.grp.foo.FooDTO;
+import com.example.foo.test.foo.FooDTO;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;

@@ -1,13 +1,9 @@
-package az.gov.mia.grp;
+package com.example.foo.test;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
-
-import javax.annotation.PostConstruct;
 
 @SpringBootApplication
 public class FooApiApp {

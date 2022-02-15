@@ -1,6 +1,6 @@
-package az.gov.mia.grp.repository.foo;
+package com.example.foo.test.repository.foo;
 
-import az.gov.mia.grp.entity.foo.FooEntity;
+import com.example.foo.test.entity.foo.FooEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
