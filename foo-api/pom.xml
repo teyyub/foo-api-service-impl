@@ -31,16 +31,16 @@
 <!--	</repositories>-->
 	<dependencies>
 
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-boot-starter</artifactId>
-			<version>3.0.0</version>
-		</dependency>
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-data-rest</artifactId>
-			<version>3.0.0</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>io.springfox</groupId>-->
+<!--			<artifactId>springfox-boot-starter</artifactId>-->
+<!--			<version>3.0.0</version>-->
+<!--		</dependency>-->
+<!--		<dependency>-->
+<!--			<groupId>io.springfox</groupId>-->
+<!--			<artifactId>springfox-data-rest</artifactId>-->
+<!--			<version>3.0.0</version>-->
+<!--		</dependency>-->
 
 		<dependency>
 			<groupId>org.projectlombok</groupId>
@@ -48,16 +48,16 @@
 			<version>1.18.20</version>
 		</dependency>
 
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-bean-validators</artifactId>
-			<version>3.0.0</version>
-		</dependency>
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger-ui</artifactId>
-			<version>2.10.5</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>io.springfox</groupId>-->
+<!--			<artifactId>springfox-bean-validators</artifactId>-->
+<!--			<version>3.0.0</version>-->
+<!--		</dependency>-->
+<!--		<dependency>-->
+<!--			<groupId>io.springfox</groupId>-->
+<!--			<artifactId>springfox-swagger-ui</artifactId>-->
+<!--			<version>2.10.5</version>-->
+<!--		</dependency>-->
 <!--		<dependency>-->
 <!--			<groupId>org.apache.commons</groupId>-->
 <!--			<artifactId>commons-lang3</artifactId>-->
@@ -132,9 +132,6 @@
 					<artifactId>springdoc-openapi-ui</artifactId>
 					<version>1.2.32</version>
 				</dependency>
-
-
-
 				<dependency>
 					<groupId>org.springframework.boot</groupId>
 					<artifactId>spring-boot-starter-data-rest</artifactId>
@@ -163,11 +160,11 @@
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-jar-plugin</artifactId>
 						<version>3.2.0</version>
-						<configuration>
-							<excludes>
-								<exclude>az/gov/mia/grp/exclude/**</exclude>
-							</excludes>
-						</configuration>
+<!--						<configuration>-->
+<!--							<excludes>-->
+<!--								<exclude>az/gov/mia/grp/exclude/**</exclude>-->
+<!--							</excludes>-->
+<!--						</configuration>-->
 					</plugin>
 				</plugins>
 			</build>
@@ -187,9 +184,6 @@
 					<artifactId>springdoc-openapi-ui</artifactId>
 					<version>1.2.32</version>
 				</dependency>
-
-
-
 				<dependency>
 					<groupId>org.springframework.boot</groupId>
 					<artifactId>spring-boot-starter-data-rest</artifactId>

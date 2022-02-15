@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/adminhr/foos")
+@RequestMapping("/foo/foos")
 public class FooApiController implements FooApi {
     private final FooApiDelegate delegate;
 
